@@ -93,7 +93,7 @@ Longer passwords (7 digits or more) take a while with `brute`. For those, use
 hashcat, which is much faster. See
 [`PDF_ENCRYPTION.md`](PDF_ENCRYPTION.md), section "Going faster with hashcat".
 
-## The one line that worked on a real statement
+## A full example
 
 ```bash
 cd /path/to/pdf-unlocker-experiment
