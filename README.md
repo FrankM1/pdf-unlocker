@@ -17,6 +17,9 @@ python3 -m venv .venv
 
 ## Use
 
+> New to this? See [`docs/USAGE.md`](docs/USAGE.md) for a plain, step-by-step
+> walkthrough. The reference below is denser.
+
 ```bash
 # What encryption does this PDF use?
 python pdf_unlocker.py info statement.pdf
